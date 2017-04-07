@@ -1,1 +1,1 @@
-com.esotericsoftware.kryo.Generics
+com.ubercab.esotericsoftware.kryo.Generics
